@@ -11,3 +11,4 @@ Entry box is used for making the screen of the calculator.
 Till this stage my claculator was completed, virtually, it was not functionable. I binded buttons to the functions and results are printed on the calculator's screen.
 <h2>Giving it a classic look</h2>
 I gave it nice color combinations to make it classic as it is!
+![image](https://user-images.githubusercontent.com/76246437/169639734-cb56de08-a5eb-4a73-a598-7d7f0be14822.png)
