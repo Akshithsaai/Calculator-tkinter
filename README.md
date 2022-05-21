@@ -11,6 +11,6 @@ Entry box is used for making the screen of the calculator.
 Till this stage my claculator was completed, virtually, it was not functionable. I binded buttons to the functions and results are printed on the calculator's screen.
 <h2>Giving it a classic look</h2>
 I gave it nice color combinations to make it classic as it is!
-./calculator.jpg
+<a href="Calculator-tkinter/calculator.jpg">Check it out here!</a>
 
 
